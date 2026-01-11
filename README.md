@@ -44,9 +44,9 @@ I have hands-on experience in Artificial Intelligence, Machine Learning, Robotic
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🌐 Portfolio: https://your-portfolio-link  
+- 📧 Email: doloidebabrat99@gmail.com
+- 💼 LinkedIn: http://www.linkedin.com/in/debabrata%20doloi-5a585b211
+- 🌐 Portfolio:
 
 ---
 
