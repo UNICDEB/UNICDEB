@@ -46,7 +46,7 @@ I have hands-on experience in Artificial Intelligence, Machine Learning, Robotic
 
 - 📧 Email: doloidebabrat99@gmail.com
 - 💼 LinkedIn: http://www.linkedin.com/in/debabrata%20doloi-5a585b211
-- 🌐 Portfolio:
+- 🌐 Portfolio: https://unicdeb.github.io/Debabrata-Doloi-Portfolio/
 
 ---
 
