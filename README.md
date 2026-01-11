@@ -1,60 +1,116 @@
-# 👋 Hi, I'm Debabrata Doloi
+# 👋 Hi, I'm Debabrata Doloi  
 
-🚀 Project Engineer at CDAC Kolkata | AI • ML • Robotics • IoT • Web Development  
+🚀 Project Engineer at CDAC Kolkata | AI Engineer | Machine Learning | Computer Vision | Robotics | IoT  
 
-I am passionate about building intelligent systems, real-world automation, and scalable software solutions.  
-I have hands-on experience in Artificial Intelligence, Machine Learning, Robotics Development, IoT Systems, and Full-Stack Web Development.
+AI-focused engineer with strong experience in building real-world intelligent systems using Machine Learning, Deep Learning, Computer Vision, and Data Analytics. Specialized in transforming research ideas into scalable, production-ready solutions across robotics, IoT, and automation domains.
+
+Previously worked as an **AI/ML Software Developer at CDAC (ManpowerGroup Services India Pvt Ltd)** and served as **RESPIN Team Lead at IISc Bangalore**, leading Bengali language dataset creation for speech recognition in agriculture and finance. Published researcher with strong academic foundation and passion for impactful innovation.
 
 ---
 
-## 🔧 Technical Skills
+## 🧠 Technical Skills
 
-- 💻 Programming: Python, C, C++, Java, JavaScript
-- 🤖 AI/ML: Machine Learning, Deep Learning, Computer Vision, Image Processing, NLP, LLM
-- 🌐 Web: HTML, CSS, JavaScript, FastAPI, Flask, Django
-- 📡 IoT: Arduino, Sensors, Embedded Systems
-- 🧠 Robotics: Perception, Automation, AI Integration
-- 📊 Tools: Git, GitHub
-- 🗄️ Databases: MySQL, MongoDB, SQLite
+### 💻 Programming
+- Python, C, C++, JavaScript
+- Data Structures & Algorithms
+
+### 🤖 AI & Data Science
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Image Processing
+- Time Series Forecasting
+- Data Analysis
+- Artificial Intelligence
+
+### 🌐 Web & API Development
+- HTML, CSS, JavaScript
+- Django, Flask, FastAPI
+- REST API Development
+
+### 📡 Robotics & IoT
+- Sensor Integration
+- Real-time Data Acquisition
+- Embedded Systems
+- Intelligent Automation
+
+### 🗄️ Libraries & Tools
+- NumPy, Pandas, Matplotlib
+- OpenCV, TensorFlow, PyTorch
+- Git, GitHub
+- MATLAB, PSPICE, Tanner EDA
+- MySQL, MongoDB, SQLite
 
 ---
 
 ## 🌟 Featured Projects
 
-🔹 **Online Technician Booking System (PHP + MySQL)**  
-🔹 **Bengali OCR Web Application (Flask + Tesseract)**  
-🔹 **Online Voting System (Django)**  
-🔹 **GIS Application Using Django**  
-🔹 **Poultry Health Prediction (Machine Learning)**  
-🔹 **AQI Prediction Using Prophet**  
-🔹 **FastAPI + YOLO Object Detection**  
-🔹 **Netflix Clone Website (HTML + CSS)**  
+🚀 **Bengali OCR Web Application**  
+OCR-based system for extracting Bengali text from images using Flask and Tesseract.
 
-➡️ Visit my repositories to explore full project demos and source code.
+🚀 **Poultry Health Prediction System**  
+Machine learning solution using IoT sensor data for predictive analytics.
 
----
+🚀 **FastAPI + YOLO Object Detection**  
+Real-time object detection API using YOLO and FastAPI.
 
-## 🏆 Professional Experience
+🚀 **GIS Application Using Django**  
+Web-based GIS visualization and data management system.
 
-- 👨‍💻 Project Engineer — CDAC Kolkata  
-- 🤖 Robotics Development using Artificial Intelligence  
-- 🌐 Freelance Developer (AI, IoT, Web, Mobile Apps)
+🚀 **Online Technician Booking System**  
+Full-stack service booking platform using PHP and MySQL.
 
----
-
-## 📫 Contact Me
-
-- 📧 Email: doloidebabrat99@gmail.com
-- 💼 LinkedIn: http://www.linkedin.com/in/debabrata%20doloi-5a585b211
-- 🌐 Portfolio: https://unicdeb.github.io/Debabrata-Doloi-Portfolio/
+🚀 **AQI Prediction Using Prophet**  
+Time-series forecasting system for air quality monitoring.
 
 ---
 
-## 📈 GitHub Activity
+## 🔬 Working Projects
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UNICDEB" />
-
+- 🌱 **Speech Recognition in Agriculture and Finance for the Poor (Team Lead, IISc Bangalore)**
+- 🤖 **TULIP – Tea Harvesting Unmanned Robotic Platform (CDAC Kolkata)**
+- 🌍 **AI-Based Air Quality Monitoring System (CDAC Kolkata)**
+- 🐔 **AI-Based Poultry Health Monitoring System (CDAC Kolkata)**
 
 ---
 
-⭐ If you like my work, feel free to connect and collaborate!
+## 📚 Research Publications
+
+- 📄 *Weight Dynamics Analysis: A Novel Approach for Timely Growth Observation of Poultry at Commercial Open-Shed Broiler Farms*  
+- 📄 *Air Quality Monitoring System for Cement Industries*
+
+---
+
+## 🎓 Education
+
+- 🎓 **Master of Computer Application (MCA)** — University of Calcutta (CGPA: 8.86)  
+- 🎓 **B.Sc Computer Science (Hons.)** — Vidyasagar University  
+- 🏫 Higher Secondary & Secondary — WBCHSE / WBBSE  
+
+---
+
+## 🌐 Languages
+
+- Bengali (Native)
+- English (Professional)
+- Hindi (Professional)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- 📧 Email: YOUR-EMAIL@gmail.com  
+- 🌐 Portfolio: (Optional)
+
+---
+
+## 📈 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=UNICDEB&show_icons=true&hide_title=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNICDEB&layout=compact&langs_count=8" />
+
+---
+
+⭐ Feel free to explore my repositories and connect for collaboration opportunities.
