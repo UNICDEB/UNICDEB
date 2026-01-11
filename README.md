@@ -4,7 +4,7 @@
 
 AI-focused engineer with strong experience in building real-world intelligent systems using Machine Learning, Deep Learning, Computer Vision, and Data Analytics. Specialized in transforming research ideas into scalable, production-ready solutions across robotics, IoT, and automation domains.
 
-Previously worked as an **AI/ML Software Developer at CDAC (ManpowerGroup Services India Pvt Ltd)** and served as **RESPIN Team Lead at IISc Bangalore**, leading Bengali language dataset creation for speech recognition in agriculture and finance. Published researcher with strong academic foundation and passion for impactful innovation.
+Previously worked as an **AI/ML Software Developer at CDAC, Kolkata** and served as **RESPIN Team Lead at IISc Bangalore**, leading Bengali language dataset creation for speech recognition in agriculture and finance. Published researcher with strong academic foundation and passion for impactful innovation.
 
 ---
 
