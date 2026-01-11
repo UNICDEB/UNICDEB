@@ -52,7 +52,7 @@ I have hands-on experience in Artificial Intelligence, Machine Learning, Robotic
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UNICDEB&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UNICDEB&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UNICDEB&layout=compact)
 
