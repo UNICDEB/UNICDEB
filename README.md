@@ -38,7 +38,6 @@ Previously worked as an **AI/ML Software Developer at CDAC (ManpowerGroup Servic
 - NumPy, Pandas, Matplotlib
 - OpenCV, TensorFlow, PyTorch
 - Git, GitHub
-- MATLAB, PSPICE, Tanner EDA
 - MySQL, MongoDB, SQLite
 
 ---
@@ -99,17 +98,15 @@ Time-series forecasting system for air quality monitoring.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- 📧 Email: YOUR-EMAIL@gmail.com  
-- 🌐 Portfolio: (Optional)
+- 💼 LinkedIn: http://www.linkedin.com/in/debabrata%20doloi-5a585b211
+- 📧 Email: doloidebabrat99@gmail.com
+- 🌐 Portfolio: https://unicdeb.github.io/Debabrata-Doloi-Portfolio/
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=UNICDEB&show_icons=true&hide_title=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNICDEB&layout=compact&langs_count=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UNICDEB" />
 
 ---
 
