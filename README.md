@@ -10,11 +10,11 @@ I have hands-on experience in Artificial Intelligence, Machine Learning, Robotic
 ## 🔧 Technical Skills
 
 - 💻 Programming: Python, C, C++, Java, JavaScript
-- 🤖 AI/ML: Machine Learning, Deep Learning, Computer Vision, NLP
+- 🤖 AI/ML: Machine Learning, Deep Learning, Computer Vision, Image Processing, NLP, LLM
 - 🌐 Web: HTML, CSS, JavaScript, FastAPI, Flask, Django
 - 📡 IoT: Arduino, Sensors, Embedded Systems
 - 🧠 Robotics: Perception, Automation, AI Integration
-- 📊 Tools: Git, GitHub, MATLAB, PSPICE, Tanner EDA
+- 📊 Tools: Git, GitHub
 - 🗄️ Databases: MySQL, MongoDB, SQLite
 
 ---
