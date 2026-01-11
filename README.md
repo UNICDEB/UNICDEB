@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Debabrata Doloi</h1>
-<h3 align="center">Project Engineer at CDAC Kolkata | AI Engineer | ML | Computer Vision | Robotics | IoT</h3>
+<h3 align="center">Project Engineer at CDAC Kolkata | AI Engineer | Machine Learning | Deep Learning | Computer Vision | Image Processing | Robotics | IoT</h3>
 
 <!-- Badges -->
 <p align="center">
@@ -60,7 +60,6 @@ Previously worked as an **AI/ML Software Developer at CDAC (ManpowerGroup Servic
 - NumPy, Pandas, Matplotlib  
 - OpenCV, TensorFlow, PyTorch  
 - Git, GitHub  
-- MATLAB, PSPICE, Tanner EDA  
 
 ---
 
@@ -107,7 +106,7 @@ Time-series forecasting system for air quality monitoring.
 
 ## 🎓 Education
 
-- 🎓 Master of Computer Application (MCA) — University of Calcutta (CGPA: 8.86)  
+- 🎓 Master of Computer Application (MCA) — University of Calcutta
 - 🎓 B.Sc Computer Science (Hons.) — Vidyasagar University  
 - 🏫 Higher Secondary & Secondary — WBCHSE / WBBSE  
 
@@ -123,17 +122,15 @@ Time-series forecasting system for air quality monitoring.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- 📧 Email: YOUR-EMAIL@gmail.com  
-- 🌐 Portfolio: Coming Soon  
+- 📧 Email: doloidebabrat99@gmail.com
+- 💼 LinkedIn: http://www.linkedin.com/in/debabrata%20doloi-5a585b211
+- 🌐 Portfolio: https://unicdeb.github.io/Debabrata-Doloi-Portfolio/ 
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=UNICDEB&show_icons=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNICDEB&layout=compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UNICDEB" />
 
 ---
 
