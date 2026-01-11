@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Debabrata Doloi
 
-<!--
-**UNICDEB/UNICDEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Project Engineer at CDAC Kolkata | AI • ML • Robotics • IoT • Web Development  
 
-Here are some ideas to get you started:
+I am passionate about building intelligent systems, real-world automation, and scalable software solutions.  
+I have hands-on experience in Artificial Intelligence, Machine Learning, Robotics Development, IoT Systems, and Full-Stack Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Skills
+
+- 💻 Programming: Python, C, C++, Java, JavaScript
+- 🤖 AI/ML: Machine Learning, Deep Learning, Computer Vision, NLP
+- 🌐 Web: HTML, CSS, JavaScript, FastAPI, Flask, Django
+- 📡 IoT: Arduino, Sensors, Embedded Systems
+- 🧠 Robotics: Perception, Automation, AI Integration
+- 📊 Tools: Git, GitHub, MATLAB, PSPICE, Tanner EDA
+- 🗄️ Databases: MySQL, MongoDB, SQLite
+
+---
+
+## 🌟 Featured Projects
+
+🔹 **Online Technician Booking System (PHP + MySQL)**  
+🔹 **Bengali OCR Web Application (Flask + Tesseract)**  
+🔹 **Online Voting System (Django)**  
+🔹 **GIS Application Using Django**  
+🔹 **Poultry Health Prediction (Machine Learning)**  
+🔹 **AQI Prediction Using Prophet**  
+🔹 **FastAPI + YOLO Object Detection**  
+🔹 **Netflix Clone Website (HTML + CSS)**  
+
+➡️ Visit my repositories to explore full project demos and source code.
+
+---
+
+## 🏆 Professional Experience
+
+- 👨‍💻 Project Engineer — CDAC Kolkata  
+- 🤖 Robotics Development using Artificial Intelligence  
+- 🌐 Freelance Developer (AI, IoT, Web, Mobile Apps)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌐 Portfolio: https://your-portfolio-link  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UNICDEB&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UNICDEB&layout=compact)
+
+---
+
+⭐ If you like my work, feel free to connect and collaborate!
