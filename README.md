@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Debabrata Doloi</h1>
-<h3 align="center">Project Engineer at CDAC Kolkata | AI Engineer | Machine Learning | Deep Learning | Computer Vision | Image Processing | Robotics | IoT</h3>
+<h3 align="center">AI/ML Data Scientist at Cognizant | Former Project Engineer at CDAC Kolkata | AI Engineer | Machine Learning | Deep Learning | Computer Vision | Image Processing | Robotics | IoT</h3>
 
 <!-- Badges -->
 <p align="center">
